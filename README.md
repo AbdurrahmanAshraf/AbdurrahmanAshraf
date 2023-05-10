@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😁 I'm a pharmacist by degree, shifting towards Multi-Cloud & DevOps.
+- ☁ I'm student at ALX Africa Cloud Computing Track.
+- 🌱 I am currently learning Linux, and self-studying CS61A.
+- 🏹 **- My goal is by end of 2023, I should have learnt Linux, Networking fundamentals, DevOps tools, improved my cloud skills, done a lot of projects and got at least 2 AWS Certificates (CLP & CSAA).**
