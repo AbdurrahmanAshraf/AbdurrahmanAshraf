@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 😁 I'm a pharmacist by degree, shifting my career towards **Multi-Cloud & DevOps**.
 - ☁ I'm student at ALX Africa Cloud Computing Track.
 - 🌱 I'm currently learning Linux, and self-studying **CS61A**.
-- 🏹 **My goal is by end of 2023, I should have learnt Linux, Networking fundamentals, DevOps tools, improved my cloud skills, done a lot of projects and got at least 2 AWS Certificates (CLP & CSAA).**
+- 🏹 **My goal is by end of 2023, I should have learned Linux, Networking fundamentals, DevOps tools, improved my cloud skills, build many projects and got at least 2 AWS Certificates (Certified Cloud Practitioner & Certified Solutions Architect - Associate).**
 -  📫 You can reach me via LinkedIn: https://www.linkedin.com/in/abdu
