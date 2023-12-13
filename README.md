@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😁 I'm a pharmacist by degree, shifting my career toward **Software Engineering and Cloud Computing**.
-- ☁ I'm a student at ALX Africa - **AWS Cloud Computing Track**.
+- 😁 I'm a pharmacist by degree, shifting my career toward **Software Engineering**.
 - 🌱 I'm currently self-studying frontend engineering through **Scrimba and FrontEndMasters**.
 -  📫 You can reach me via LinkedIn: https://www.linkedin.com/in/abdu
